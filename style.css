@@ -73,7 +73,7 @@ footer {
     padding: 15px;
     background-color: #262626;
     color: white;
-}
+}/*adds spacing between main content and footer*/
 
 footer li {
     list-style-type: none;
