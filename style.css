@@ -18,20 +18,19 @@ nav ul {
     display: flex;
     justify-content: flex-end;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 8px;
+    padding: 20px;
 }
 
 nav li a {
-    padding: 15px;
+    padding: 20px;
     text-decoration: none;
     color: white;
     display: inline-block;
 }
 
 nav li a:hover {
-    background-color: white;
-    color: #262626;
+    color: #b3b3b3;
 }
 /*end navigation*/
 
