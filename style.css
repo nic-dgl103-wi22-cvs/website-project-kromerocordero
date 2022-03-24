@@ -14,12 +14,6 @@ nav {
     background-color: #262626;
 }
 
-nav.wrapper {
-    width: 800px;
-    margin: auto;
-    padding: 0 15px;
-}
-
 nav ul {
     display: flex;
     justify-content: flex-end;
@@ -40,3 +34,9 @@ nav li a:hover {
     color: #262626;
 }
 /*end navigation*/
+
+#logo img {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+}
