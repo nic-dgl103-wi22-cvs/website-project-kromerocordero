@@ -9,6 +9,12 @@ body {
     margin: 0;
 }
 
+main {
+    background-image: url(images/heroback.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}/*hero image at top of page*/
+
 /*start navigation*/
 nav {
     background-color: #262626;
@@ -38,10 +44,11 @@ nav li a:hover {
     position: absolute;
     margin-top: 15px;
     margin-left: 10px;
-}
+}/*positions logo img on top of nav bar*/
 
-main {
-    background-image: url(images/heroback.jpg);
-    background-repeat: no-repeat;
-    background-size: contain;
+#hero h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 200px 150px;
 }
