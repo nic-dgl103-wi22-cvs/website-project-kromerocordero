@@ -52,7 +52,8 @@ nav li a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 160px 150px;
+    margin-top: 3%;
+    padding: 120px 150px;
 }
 
 h1 {
