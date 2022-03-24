@@ -1,3 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background-color: gray;
+    font-family: 'Quicksand', sans-serif;
+    background-color: white;
+    margin: 0;
+}
+
+/*start navigation*/
+nav.wrapper {
+    width: 800px;
+    margin: auto;
+    padding: 0 15px;
 }
