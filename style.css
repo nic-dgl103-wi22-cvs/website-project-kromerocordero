@@ -39,3 +39,9 @@ nav li a:hover {
     margin-top: 15px;
     margin-left: 10px;
 }
+
+main {
+    background-image: url(images/heroback.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
