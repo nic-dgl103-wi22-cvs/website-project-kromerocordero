@@ -50,5 +50,9 @@ nav li a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 200px 150px;
+    padding: 160px 150px;
+}
+
+h1 {
+    font-size: 5em;
 }
