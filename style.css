@@ -12,9 +12,9 @@ body {
 header {
     background-image: url(images/heroback.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
-    background-origin: content-box;
-    background-position: 0 76%;
+    background-size: cover;
+    background-origin: padding-box;
+    background-position: 80%;
 }/*hero image at top of page*/
 
 /*start navigation*/
