@@ -67,7 +67,15 @@ main {
     text-align: center;
 }
 
+/*start footer*/
 footer {
+    margin-top: 20px;
+    padding: 15px;
     background-color: #262626;
     color: white;
 }
+
+footer li {
+    list-style-type: none;
+}
+/*end footer*/
