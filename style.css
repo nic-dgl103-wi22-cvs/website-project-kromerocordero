@@ -66,3 +66,8 @@ main {
     margin: auto;
     text-align: center;
 }
+
+footer {
+    background-color: #262626;
+    color: white;
+}
