@@ -27,3 +27,15 @@ nav ul {
     margin: 0;
     padding: 0;
 }
+
+nav li a {
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+}
+
+nav li a:hover {
+    background-color: white;
+    color: #262626;
+}
