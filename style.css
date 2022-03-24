@@ -4,11 +4,16 @@
 
 body {
     font-family: 'Quicksand', sans-serif;
-    background-color: white;
+    color: white;
+    background-color: black;
     margin: 0;
 }
 
 /*start navigation*/
+nav {
+    background-color: #262626;
+}
+
 nav.wrapper {
     width: 800px;
     margin: auto;
