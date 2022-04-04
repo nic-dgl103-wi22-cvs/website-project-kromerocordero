@@ -84,7 +84,10 @@ article div ul li {
     margin-top: 5em;
 }
 
-iframe {
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  iframe {
     width: 31em;
     height: 28em;
+  }
 }
