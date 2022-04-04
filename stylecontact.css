@@ -37,21 +37,21 @@ input[type="text"],
 select,
 textarea {
   width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  margin-top: 6px;
-  margin-bottom: 16px;
+  padding: 0.75em;
+  border: 0.06em solid #ccc;
+  border-radius: 0.25em;
+  margin-top: 0.375em;
+  margin-bottom: 1em;
   resize: vertical;
 }
 
 input[type="email"] {
   width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  margin-top: 6px;
-  margin-bottom: 16px;
+  padding: 0.75em;
+  border: 0.06em solid #ccc;
+  border-radius: 0.25em;
+  margin-top: 0.375em;
+  margin-bottom: 1em;
   resize: vertical;
 }
 
@@ -60,8 +60,8 @@ textarea {
 }
 
 fieldset {
-  margin-bottom: 16px;
-  border: 1px solid #ccc;
+  margin-bottom: 1em;
+  border: 0.06em solid #ccc;
 }
 
 .label-required {
@@ -70,7 +70,21 @@ fieldset {
 }
 /*FORM CONTROLS END*/
 
+ul li {
+    list-style-type: none;
+}
+
 .container {
     display: flex;
     margin-top: 5em;
+}
+
+.contactinfo {
+    align-items: center;
+    justify-content: center;
+}
+
+iframe {
+    width: 31em;
+    height: 28em;
 }
