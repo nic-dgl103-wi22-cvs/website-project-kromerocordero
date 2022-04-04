@@ -39,3 +39,10 @@ nav li a:hover {
     margin-top: 15px;
     margin-left: 10px;
 }/*positions logo img on top of nav bar*/
+
+main {
+    padding: 15px;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
