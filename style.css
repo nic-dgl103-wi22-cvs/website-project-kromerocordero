@@ -43,4 +43,12 @@ th {
   padding: 0.5em;
 }
 
+tbody th {
+    font-weight: 400;
+}
+
+tfoot th {
+    font-weight: 500;
+    font-style: italic;
+}
 /*End of table*/
