@@ -9,13 +9,6 @@ body {
     margin: 0;
 }
 
-header {
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-origin: padding-box;
-    background-position: 80%;
-}/*hero image at top of page*/
-
 /*start navigation*/
 nav {
     background-color: #262626;
