@@ -36,8 +36,25 @@
     <main>
         <article>
             <h1>CONTACT US</h1>
-            <p>Insert Contact Form here</p>
+            <div>
+                <form method="post" action="https://learndigital.dev/programs/dgl103-form.php">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" placeholder="Ex: Thomas Johnson">
+                
+                    <label for="email">Email <span class="label-required">* (required)</span></label>
+                    <input type="email" id="email" name="email" placeholder="Ex: thomasjs@yahoo.com" required>
+                
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" placeholder="Add any extra comments or information you would like us to know for your appointment!" style="height:200px"></textarea>
+                
+                    <div class="wrapper-button">
+                      <input type="reset" value="Reset">
+                      <input type="submit" value="Submit">
+                    </div>
+                </form>
+            </div>
         </article>
+
         <aside>
             <img src="images/map.png" alt="Location of Apollo Tattoo on a map" height="400px" width="400px">
             <h2>Other ways to contact us</h2>
