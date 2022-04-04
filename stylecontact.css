@@ -69,3 +69,7 @@ fieldset {
   color: red;
 }
 /*FORM CONTROLS END*/
+
+.container {
+    display: flex;
+}
