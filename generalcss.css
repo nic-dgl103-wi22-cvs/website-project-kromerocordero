@@ -42,7 +42,7 @@ nav li a:hover {
 
 main {
     padding: 0.9em;
-    width: 50em;
+    width: 20em;
     margin: auto;
     text-align: center;
 }
@@ -59,3 +59,56 @@ footer li {
     list-style-type: none;
 }
 /*end footer*/
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 600px) {
+    footer {
+        width: 100vw;
+    }
+
+    nav {
+      width: 100vw;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    footer {
+        width: 100vw;
+    }
+
+    nav {
+      width: 100vw;
+    }
+
+    main {
+        width: 35em;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    footer {
+        width: 100vw;
+    }
+
+    nav {
+      width: 100vw;
+    }
+
+    main {
+        width: 50em;
+    }
+}
+
+  @media only screen and (min-width: 1200px) {
+    footer {
+        width: 100vw;
+    }
+
+    nav {
+      width: 100vw;
+    }
+    
+    main {
+        width: 50em;
+    }
+}
