@@ -48,12 +48,13 @@ nav li a:hover {
     margin-left: 10px;
 }/*positions logo img on top of nav bar*/
 
-#hero h1 {
+.hero {
+    width: 100vw;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 3%;
-    padding: 150px 150px;
+    text-align: center;
 }
 
 h1 {
