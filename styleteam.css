@@ -1,0 +1,12 @@
+
+
+section div img {
+    width: 15em;
+    height: 15em;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
