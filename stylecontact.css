@@ -1,3 +1,8 @@
+h1 {
+    font-family: 'Pirata One', serif;
+    font-size: 3em;
+}
+
 /*BUTTONS START*/
 input[type="reset"] {
     color: #900000;
