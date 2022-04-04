@@ -74,14 +74,8 @@ ul li {
     list-style-type: none;
 }
 
-.container {
-    display: flex;
+.moreinfo {
     margin-top: 5em;
-}
-
-.contactinfo {
-    align-items: center;
-    justify-content: center;
 }
 
 iframe {
