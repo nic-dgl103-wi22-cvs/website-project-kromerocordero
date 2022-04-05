@@ -19,3 +19,7 @@ div p {
     margin: 3.7em; /*Spacing between paragraphs and team members' images*/
 }
 
+section h2 {
+    margin-top: 3em; /*Separates Harold's info from Anna*/
+}
+
