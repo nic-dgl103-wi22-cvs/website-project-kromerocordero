@@ -14,3 +14,7 @@ main div img {
     flex-wrap: nowrap;
     justify-content: space-around;
 }
+
+.harold {
+    margin-top: 3em; /*Visually separates the team member's mini portfolios*/
+}
