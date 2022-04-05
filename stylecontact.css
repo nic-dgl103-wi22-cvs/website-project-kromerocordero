@@ -77,11 +77,11 @@ fieldset {
 
 article div ul li {
     list-style-type: none;
-    margin-left: -2em;
+    margin-left: -2em; /*reposition text so its perfectly centered*/
 }
 
 .moreinfo {
-    margin-top: 5em;
+    margin-top: 5em; /*Visibly separates content from contact form*/
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
