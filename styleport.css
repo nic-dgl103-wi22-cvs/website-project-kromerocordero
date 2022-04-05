@@ -12,7 +12,7 @@ main div img {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: space-around;
+    justify-content: center; /*Places portfolio images next to each other and centered with the main title*/
 }
 
 .harold {
