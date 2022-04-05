@@ -8,14 +8,14 @@ section div img {
     height: 12em;
 }
 
-.members {
+.members { 
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: justify;
+    text-align: justify; /*Places images and paragraphs next to each other*/
 }
 
 div p {
-    margin: 3.7em;
+    margin: 3.7em; /*Spacing between paragraphs and team members' images*/
 }
 
