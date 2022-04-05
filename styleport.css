@@ -3,7 +3,10 @@ h1 {
     font-size: 3em;
 }
 
-
+main div img {
+    width: 25em;
+    height: 15.62em;
+}
 
 .gallery {
     display: flex;
