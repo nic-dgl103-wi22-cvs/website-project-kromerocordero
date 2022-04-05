@@ -43,9 +43,15 @@
                 
                     <label for="email">Email <span class="label-required">* (required)</span></label>
                     <input type="email" id="email" name="email" placeholder="Ex: thomasjs@yahoo.com" required>
+
+                    <label for="appointment">Are you looking to book an appointment?</label>
+                    <select id="appointment" name="appointment">
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
+                    </select>
                 
                     <label for="message">Message</label>
-                    <textarea id="message" name="message" placeholder="Add any extra comments or information you would like us to know for your appointment!" style="height:200px"></textarea>
+                    <textarea id="message" name="message" placeholder="Tell us at what time you would like your appointment. Feel free to add any extra comments or information you would like us to know!" style="height:200px"></textarea>
                 
                     <div class="wrapper-button">
                       <input type="reset" value="Reset">
