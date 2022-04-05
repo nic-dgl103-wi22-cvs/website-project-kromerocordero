@@ -4,13 +4,14 @@ h1 {
 }
 
 section div img {
-    width: 15em;
-    height: 15em;
+    width: 12em;
+    height: 12em;
 }
 
-.flex {
+.members {
     display: flex;
-    flex-wrap: wrap;
-    
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
 }
 
